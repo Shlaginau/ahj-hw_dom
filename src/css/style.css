@@ -1,7 +1,7 @@
 .game-board {
   display: flex;
   flex-wrap: wrap;
- gap: 1px;
+  gap: 1px;
   width: 440px;
   margin: 0 auto;
 }
