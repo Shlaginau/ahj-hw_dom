@@ -9,7 +9,7 @@ export function startGame() {
   }, 1000);
 }
 
-function moveGoblin(board, goblin) {
+export function moveGoblin(board, goblin) {
   const emptyCells = Array.from(board.children).filter(
     (cell) => !cell.hasChildNodes()
   );
