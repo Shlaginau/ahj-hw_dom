@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/hhby0pt8k3ejqps3?svg=true)](https://ci.appveyor.com/project/Shlaginau/ahj-hw-dom-vt2h9)
 
+![CI](https://github.com/shlaginau/hj-hw_dom/actions/workflows/web.yml/badge.svg)
+
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
